@@ -1,5 +1,5 @@
 # Creditcard-use-analysis-dev
-AI 알고리즘 활용 카드 사용 금액 예측 (Dacon 경진대회)
+AI 알고리즘 활용 카드 사용 금액 예측 (Dacon 경진대회) - https://dacon.io/competitions/official/235615/overview/
 
 ## 1. 배경
 - 신용카드 사용량을 분석을 통한  ‘Post COVID-19 시대’ 신용카드 사용량 예측 모델 개발
