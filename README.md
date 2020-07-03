@@ -11,3 +11,8 @@ AI 알고리즘 활용 카드 사용 금액 예측 (Dacon 경진대회) - https:
 ## 3. 주최/주관
 - 주최 : 제주특별자치도청, 제주테크노파크
 - 주관 : DACON
+
+## 4. 규칙
+### 1)평가식
+- RMSLE (Root Mean Square Logarithmic Error) 
+- 제주 지역에 3배 가중치 부여
